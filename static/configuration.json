@@ -1,0 +1,34 @@
+{
+    "githubUsername": "shuichi123",
+    "blogImg": "/static/img/meow.gif",
+    "blogTitle": "meow~",
+    "blogDescribe": "吹口琴的喵～",
+    "htmlTitle": "吹口琴的喵～",
+    "fontColor": "#ffffff",
+    "useBackgroundImage": false,
+    "backgroundColorLeft": "rgba(38, 144, 249, 0.5)",
+    "backgroundColorRight": "rgba(252, 45, 45, 0.5)",
+    "audioUrl": "http://sc1.111ttt.cn:8282/2018/1/03m/13/396131232171.m4a?tflag=1519095601&pin=6cd414115fdb9a950d827487b16b5f97#.mp3",
+    "mini": false,
+    "webSites":[
+        {"name":"v2ex" , "url":"https://www.v2ex.com/member/laziji"}
+    ],
+    "types":[
+        {
+            "label": "学习",
+            "options": [
+                {"value": "js", "label": "js"},
+                {"value": "css", "label": "css"},
+                {"value": "python", "label": "python"},
+                {"value": "vue", "label": "vue"}
+            ]
+        },
+        {
+            "label": "爱好",
+            "options": [
+                {"value": "harm", "label": "harm"},
+                {"value": "meow", "label": "meow"}
+            ]
+        }
+    ]
+}
