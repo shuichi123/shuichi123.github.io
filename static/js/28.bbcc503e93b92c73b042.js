@@ -1,0 +1,2 @@
+webpackJsonp([28],{kYBI:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default='\n<script>\n{\n    let hege = ["Cecilie", "Lone"];\n    let stale = ["Emil", "Tobias", "Linus"];\n    let value = hege.concat(stale);\n    write(value);\n}\n{\n    let hege = ["Cecilie", "Lone"];\n    let stale = ["Emil", "Tobias", "Linus"];\n    let value = hege.concat(stale, stale, \'123\', 123);\n    write(value);\n}\n<\/script>\n'}});
+//# sourceMappingURL=28.bbcc503e93b92c73b042.js.map

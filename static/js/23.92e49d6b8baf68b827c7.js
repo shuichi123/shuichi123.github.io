@@ -1,0 +1,2 @@
+webpackJsonp([23],{GdxJ:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default="\n<script>\n{\n    let ages = [32, 33, 16, 40]\n    ages.forEach((age, index) => {\n        write(`index:${index},age:${age}`)\n    })\n}\n<\/script>\n"}});
+//# sourceMappingURL=23.92e49d6b8baf68b827c7.js.map

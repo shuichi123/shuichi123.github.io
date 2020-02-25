@@ -1,0 +1,2 @@
+webpackJsonp([13],{"+OPM":function(n,e,t){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.default='\n<script>\n{\n    //把数组各元素拼接成字符串\n    let fruits = ["Banana", "Orange", "Apple", "Mango"]\n    write(\'默认使用"，"进行分隔\', fruits.join())\n    write(\'else使用""进行分隔\', fruits.join(\'\'))\n    write(\'else使用" "进行分隔\', fruits.join(\' \'))\n}\n<\/script>\n'}});
+//# sourceMappingURL=13.5bd7f7f6b30ea3728dcf.js.map

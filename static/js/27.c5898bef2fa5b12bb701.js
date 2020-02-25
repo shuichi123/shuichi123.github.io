@@ -1,0 +1,2 @@
+webpackJsonp([27],{dX9S:function(e,n,a){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default="\n<script>\n{\n    let ages = [32, 33, 16, 40]\n    write(ages.every((age, index, arr) => age>=18))\n}\n{\n    let ages = [32, 33, 16, 40]\n    write(ages.some(age => age>=18))\n}\n<\/script>\n"}});
+//# sourceMappingURL=27.c5898bef2fa5b12bb701.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([19],{wMRA:function(n,e,t){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.default='\n<script>\n{\n    //entries返回一个可迭代对象，包含数组的键值对\n    let fruits = ["Banana", "Orange", "Apple", "Mango"];\n    let x = fruits.entries();\n    for(item of x){\n        write(item)\n    }\n}\n{\n    //entries返回一个可迭代对象，包含数组的键\n    let fruits = ["Banana", "Orange", "Apple", "Mango"];\n    let x = fruits.keys();\n    for(item of x){\n        write(item)\n    }\n}\n<\/script>\n'}});
+//# sourceMappingURL=19.054fc8cc14f17e5d86dc.js.map

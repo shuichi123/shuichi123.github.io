@@ -1,0 +1,2 @@
+webpackJsonp([33],{"5op1":function(n,t,p){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default='\n<html>\n<head>\n    <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.4.2.min.js"><\/script>\n    <script>\n        window.onload=function(){\n            $("p").click(function () {\n                $(this).hide();\n            });\n        }\n    <\/script>\n</head>\n<body>\n    <p>如果您点击我，我会消失。</p>\n    <p>点击我，我会消失。</p>\n    <p>也要点击我哦。</p>\n</body>\n</html>\n'}});
+//# sourceMappingURL=33.2274e95ec912f64d21c8.js.map

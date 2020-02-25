@@ -1,0 +1,2 @@
+webpackJsonp([29],{KGaY:function(n,r,a){"use strict";Object.defineProperty(r,"__esModule",{value:!0}),r.default='\n<script>\n{\n    let fruits=["Banana","Orange","Apple","Mango","Banana","Orange","Apple"]\n    write(Array.isArray(fruits))\n    write(Array.isArray({a: 123}))\n}\n<\/script>\n'}});
+//# sourceMappingURL=29.70635c8d42cdc49a9100.js.map

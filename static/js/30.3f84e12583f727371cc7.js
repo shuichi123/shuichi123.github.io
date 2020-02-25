@@ -1,0 +1,2 @@
+webpackJsonp([30],{Z5VH:function(e,n,r){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default="\n<script>\n{\n    let ages = [32, 33, 16, 40]\n    let younger = Array.from(ages, age => age-10)\n    write(...younger)\n}\n{\n    let ages = [32, 33, 16, 40]\n    let younger = Array.from(ages, age => '年龄为：'+age)\n    write(...younger)\n}\n{\n    let single = Array.from('wdbBlog')\n    write(single)\n}\n<\/script>\n"}});
+//# sourceMappingURL=30.3f84e12583f727371cc7.js.map

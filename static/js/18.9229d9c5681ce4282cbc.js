@@ -1,0 +1,2 @@
+webpackJsonp([18],{tL0v:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default="\n<script>\n{\n    //map通过指定函数处理数组的每个元素，并返回处理后的数组\n    let arr = [4, 9, 16, 25]\n    let new_arr = arr.map(item => Math.sqrt(item))\n    write(new_arr)\n}\n<\/script>\n"}});
+//# sourceMappingURL=18.9229d9c5681ce4282cbc.js.map
